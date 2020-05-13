@@ -1,4 +1,8 @@
+.DS_Store
+
 coverage
 node_modules
 package-lock.json
 junit-reports
+
+rollup-plugin-visualizer.html
